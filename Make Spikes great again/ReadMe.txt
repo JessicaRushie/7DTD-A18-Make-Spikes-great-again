@@ -2,7 +2,7 @@ Decreases the ammount of damage by 10 that spikes recive to be more like A16.
 
 
 Wood Spikes base Value='33', New value'3',
-https://github.com/JessicaRushie/7DTD-A18-Make-Spikes-great-again
+
 Scrap Iron Spikes base value='33' New value'3',
 
 Wood Log Spikes 1 base value='7' New value'0.7',
