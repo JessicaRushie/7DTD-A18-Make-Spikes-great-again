@@ -1,0 +1,33 @@
+<configs>
+
+	<!-- Wood Spikes --> 
+	<set xpath="/blocks/block[@name='trapSpikesWoodMaster']/property[@name='Damage_received' and @value='33']/@value">3</set>
+
+	<!-- Scrap Iron Spikes -->
+	<set xpath="/blocks/block[@name='trapSpikesScrapIronMaster']/property[@name='Damage_received' and @value='33']/@value">3</set>
+
+	<!-- Wood Log Spikes 1 -->
+	<set xpath="/blocks/block[@name='woodLogSpike1']/property[@name='Damage_received' and @value='7']/@value">0.7</set>
+
+	<!-- Wood Log spikes 2 -->
+	<set xpath="/blocks/block[@name='rWoodLogSpike2']/property[@name='Damage_received' and @value='7']/@value">0.7</set>
+
+	<!-- Metal Log Spikes 3 -->
+	<set xpath="/blocks/block[@name='rWoodMetalLogSpike3']/property[@name='Damage_received' and @value='10']/@value">1</set>
+
+	<!-- Scrap Iron Log Spike 4 -->
+	<set xpath="/blocks/block[@name='scrapIronLogSpike4']/property[@name='Damage_received' and @value='9']/@value">0.9</set>
+
+	<!-- Scrap Iron Log Spike 5 -->
+	<set xpath="/blocks/block[@name='rScrapIronLogSpike5']/property[@name='Damage_received' and @value='10']/@value">1</set>
+
+	<!-- Steel Log Spike 6 -->
+	<set xpath="/blocks/block[@name='steelLogSpike6']/property[@name='Damage_received' and @value='40']/@value">4</set>
+
+	<!-- Barbed Wire Sheet -->
+	<set xpath="/blocks/block[@name='barbedWireSheet']/property[@name='Damage_received' and @value='6']/@value">0.6</set>
+
+	<!-- Barbed Fence -->
+	<set xpath="/blocks/block[@name='barbedFence']/property[@name='Damage_received' and @value='6']/@value">0.6</set>
+
+</configs>

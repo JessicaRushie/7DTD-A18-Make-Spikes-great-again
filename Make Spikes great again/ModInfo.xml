@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="Make Spikes Great Again"/>
+		<Description value="Makes spikes actually work"/>
+		<Author value="Jessica Rushie"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>
